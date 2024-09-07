@@ -24,7 +24,7 @@ npm install express mongoose dotenv nodemon
 ```
 ## Setup instructions
 ```bash
-git clone https://github.com/YourUsername/Ecommerce-Backend.git
+git clone https://github.com/CharudattaGhute/Task_Limiter.git
 ```
 
 ## API Endpoints
